@@ -1,2 +1,2 @@
 
-Huffman Coding 
+Huffman Encoding 
